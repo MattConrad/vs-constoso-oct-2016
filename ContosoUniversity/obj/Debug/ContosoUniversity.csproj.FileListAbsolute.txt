@@ -1,0 +1,82 @@
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\WebGrease.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\matt\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\work\randomcrap\cu\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\work\randomcrap\cu\ContosoUniversity\bin\ContosoUniversity.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\work\randomcrap\cu\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\EntityFramework.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\PagedList.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.Razor.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\WebGrease.dll
+C:\work\randomcrap\cu\ContosoUniversity\bin\EntityFramework.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\PagedList.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.Razor.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\work\randomcrap\cu\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\work\randomcrap\cu\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\work\randomcrap\cu\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\work\randomcrap\cu\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\work\randomcrap\cu\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\work\randomcrap\cu\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\work\randomcrap\cu\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\work\randomcrap\cu\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\work\randomcrap\cu\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\work\randomcrap\cu\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\work\randomcrap\cu\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\work\randomcrap\cu\ContosoUniversity\obj\Debug\ContosoUniversity.pdb

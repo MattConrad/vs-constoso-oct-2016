@@ -1,0 +1,3 @@
+﻿There aren't any actual tests here!
+
+This isn't a real project. It's just a stub so that Solution Explorer looks a little more interesting in the example.

@@ -1,0 +1,6 @@
+C:\work\randomcrap\cu\ConsotsoTest\bin\Debug\ConsotsoTest.dll
+C:\work\randomcrap\cu\ConsotsoTest\bin\Debug\ConsotsoTest.pdb
+C:\work\randomcrap\cu\ConsotsoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\work\randomcrap\cu\ConsotsoTest\obj\Debug\ConsotsoTest.csprojResolveAssemblyReference.cache
+C:\work\randomcrap\cu\ConsotsoTest\obj\Debug\ConsotsoTest.dll
+C:\work\randomcrap\cu\ConsotsoTest\obj\Debug\ConsotsoTest.pdb
