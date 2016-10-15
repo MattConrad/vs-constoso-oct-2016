@@ -8,6 +8,6 @@ You can learn more about the Constoso tutorial here: https://www.asp.net/mvc/ove
 
 If you download this project, and get it to open in Visual Studio reasonably correctly (to the point where you can open the project files from Solution Explorer), that gets you to "good enough". You don't really need to be able to run the project to follow along for most of the presentation.
 
-That said, you should be able to get the project to run if you a) refresh any missing packages, and b) run Update-Database from the Package Manager console. You might have to fiddle with the Web.config connection setting string depending on what local database server you're running. See also description.html in the root folder for a bit more setup instruction. If you can press Ctrl-F5 and a new web page with Contoso University in big hero letters shows up, you're good.
+That said, you should be able to get the project to run if you a) refresh any missing packages, and b) run Update-Database from the Package Manager console. You might have to fiddle with the Web.config connection setting string depending on what local database server you're running. See also description.html in the root folder for a bit more setup instruction. (If you can press Ctrl-F5 and a new web page with Contoso University in big hero letters shows up, you're good.)
 
 Don't sweat it if you can't get the project to run. It's a nice to have but not essential for the presentation.
